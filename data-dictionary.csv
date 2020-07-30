@@ -1,0 +1,64 @@
+table,column_name,column_description
+01-state-public-health-agencies,year,Fiscal year
+01-state-public-health-agencies,fips_state,State FIPS code
+01-state-public-health-agencies,state_code,State postal code
+01-state-public-health-agencies,population,"State population, from the U.S. Census Bureau intercensal population estimates"
+01-state-public-health-agencies,fte,Full-time equivalent employees
+01-state-public-health-agencies,expenditures,"Total expenditures, nominal dollars"
+01-state-public-health-agencies,expenditures_infl,"Total expenditures, inflation adjusted to 2019 dollars"
+01-state-public-health-agencies,fte_per_100000,"Full-time equivalent employees per 100,000 residents"
+01-state-public-health-agencies,expenditures_per_capita,"Expenditures per person, nominal dollars"
+01-state-public-health-agencies,expenditures_infl_per_capita,"Expenditures per person, inflation adjusted to 2019 dollars"
+02-state-local-government-spending,year,Fiscal year
+02-state-local-government-spending,state_code,State postal code
+02-state-local-government-spending,level,"Government level included in the given expenditures, either state only, local only (including county, cities, towns) or both state and local total."
+02-state-local-government-spending,population,"State population, from the U.S. Census Bureau intercensal population estimates"
+02-state-local-government-spending,category_code,"Spending category, from the State and Local Finance Initiative"
+02-state-local-government-spending,category_name,Type of spending
+02-state-local-government-spending,expenditures,"Expenditures, nominal dollars"
+02-state-local-government-spending,expenditures_infl,"Expenditures, inflation adjusted to 2019 dollars"
+02-state-local-government-spending,expenditures_per_capita,"Expenditures per person, nominal dollars"
+02-state-local-government-spending,expenditures_infl_per_capita,"Expenditures per person, inflation adjusted to 2019 dollars"
+02-state-local-government-spending,expenditures_pct,Percent of total expenditures for the given state
+03-county-local-government-spending,year,Fiscal year
+03-county-local-government-spending,state_code,State postal code
+03-county-local-government-spending,fips_county,County FIPS code
+03-county-local-government-spending,county_name,County name
+03-county-local-government-spending,population,"County population, from the U.S. Census Bureau intercensal population estimates"
+03-county-local-government-spending,category_name,Type of spending
+03-county-local-government-spending,expenditures,"Expenditures, nominal dollars"
+03-county-local-government-spending,expenditures_infl,"Expenditures, inflation adjusted to 2019 dollars"
+03-county-local-government-spending,expenditures_per_capita,"Expenditures per person, nominal dollars"
+03-county-local-government-spending,expenditures_infl_per_capita,"Expenditures per person, inflation adjusted to 2019 dollars"
+03-county-local-government-spending,expenditures_pct,Percent of total expenditures for the given county
+04-local-health-departments-total-by-state,year,Fiscal year
+04-local-health-departments-total-by-state,state_code,State postal code
+04-local-health-departments-total-by-state,population,"State population, from the U.S. Census Bureau intercensal population estimates"
+04-local-health-departments-total-by-state,fte,Full-time equivalent employees in all LHDs
+04-local-health-departments-total-by-state,expenditures,"Expenditures from all LHDS, nominal dollars"
+04-local-health-departments-total-by-state,expenditures_infl,"Expenditures from all LHDS, inflation adjusted to 2019 dollars"
+04-local-health-departments-total-by-state,expenditures_infl_per_capita,"Expenditures from all LHDS per person, inflation adjusted to 2019 dollars"
+04-local-health-departments-total-by-state,fte_per_100000,"Full-time equivalent employees in all LHDs per 100,000 residents"
+05-local-health-departments-detail,year,Fiscal year
+05-local-health-departments-detail,state_code,State postal code
+05-local-health-departments-detail,nacchoid,"LHD ID code, assigned by NACCHO"
+05-local-health-departments-detail,lhd_name,LHD name
+05-local-health-departments-detail,fips_county,"County FIPS code, if LHD covers a single county"
+05-local-health-departments-detail,county_name,"County name, if LHD covers a single county"
+05-local-health-departments-detail,fips_place,"Place FIPS code, if LHD covers a single Census place (e.g. city or town)"
+05-local-health-departments-detail,counties,"Number of counties in LHD, if it is county-based"
+05-local-health-departments-detail,fips_counties,FIPS codes of counties in multi-county LHDs
+05-local-health-departments-detail,population,Population served by LHD
+05-local-health-departments-detail,fte,Full-time equivalent employees
+05-local-health-departments-detail,fte_per_100000,"Full-time equivalent employees per 100,000 residents"
+05-local-health-departments-detail,expenditures,"Expenditures, nominal dollars"
+05-local-health-departments-detail,expenditures_infl,"Expenditures, inflation adjusted to 2019 dollars"
+05-local-health-departments-detail,expenditures_per_capita,"Expenditures per person, nominal dollars"
+05-local-health-departments-detail,expenditures_infl_per_capita,"Expenditures per person, inflation adjusted to 2019 dollars"
+05-local-health-departments-detail,lhd_note,Notes on LHD
+06-state-directory,state_code,State postal code
+06-state-directory,state_name,State name
+06-state-directory,governance_type,Governance (relationship) between state and local health departments
+06-state-directory,link,Local health department information
+06-state-directory,public_health_expenditures_pct,"Percent of total state spending that is on public health, 2016–2018 average"
+06-state-directory,public_health_expenditures_per_capita,"Amount of state spending that is on public health per person, 2016–2018 average inflation-adjusted to 2019 dollars"

@@ -1,0 +1,52 @@
+state_code,state_name,governance_type,link,public_health_expenditures_pct,public_health_expenditures_per_capita
+AK,Alaska,Mixed,http://dhss.alaska.gov/dph/nursing/pages/locations.aspx,0.013200399,219.7562527
+AL,Alabama,Largely centralized,http://www.alabamapublichealth.gov/about/health-departments.html,0.015349193,108.5542482
+AR,Arkansas,Centralized,https://www.healthy.arkansas.gov/county-health-officers,0.007666648,60.87504215
+AZ,Arizona,Decentralized,https://www.naccho.org/membership/lhd-directory?searchType=standard&lhd-state=AZ#card-filter,0.012115254,71.11888261
+CA,California,Decentralized,https://www.cdph.ca.gov/Pages/LocalHealthServicesAndOffices.aspx,,
+CO,Colorado,Decentralized,https://www.colorado.gov/pacific/cdphe/find-your-local-public-health-agency,0.010759515,72.04408513
+CT,Connecticut,Decentralized,https://portal.ct.gov/DPH/Local-Health-Admin/LHA/Local-Health-Administration,0.007309338,60.5503254
+DC,District of Columbia,Centralized,https://dchealth.dc.gov/page/about-dc-health,,
+DE,Delaware,Centralized,https://www.dhss.delaware.gov/dhss/dph/ofclocations.html,0.024459808,262.7212207
+FL,Florida,Shared,http://www.floridahealth.gov/programs-and-services/county-health-departments/index.html,0.019810642,90.80348148
+GA,Georgia,Shared,https://dph.georgia.gov/public-health-districts,0.021926182,110.173975
+HI,Hawaii,Centralized,https://health.hawaii.gov/about/,0.02214722,211.7354009
+IA,Iowa,Decentralized,https://idph.iowa.gov/lphs/local-public-health-agencies,0.007191708,56.06997999
+ID,Idaho,Decentralized,https://healthandwelfare.idaho.gov/Health/HealthDistricts/tabid/97/Default.aspx,0.010906217,65.15623965
+IL,Illinois,Decentralized,http://www.idph.state.il.us/LHDMap/HealthRegions.aspx,0.007318782,52.34292889
+IN,Indiana,Decentralized,https://www.in.gov/isdh/24822.htm,0.005692819,36.60032834
+KS,Kansas,Decentralized,https://www.kdheks.gov/olrh/local_health.html,0.012233897,85.56310057
+KY,Kentucky,Shared,https://chfs.ky.gov/agencies/dph/dafm/Pages/lhd.aspx,0.012403536,102.6963878
+LA,Louisiana,Largely centralized,http://ldh.la.gov/index.cfm/page/3016,0.004274507,32.28840742
+MA,Massachusetts,Decentralized,https://www.mass.gov/service-details/overview-of-local-public-health-in-massachusetts,0.006472718,65.42700355
+MD,Maryland,Largely shared,https://health.maryland.gov/Pages/health-departments.aspx,0.01724995,136.6755943
+ME,Maine,Mixed,https://www.maine.gov/dhhs/mecdc/public-health-systems/lphd/index.shtml,0.005669426,40.63332157
+MI,Michigan,Decentralized,"https://www.michigan.gov/mdhhs/0,5885,7-339--96747--,00.html",0.011768617,90.7743451
+MN,Minnesota,Decentralized,https://www.health.state.mn.us/communities/practice/connect/findlph.html,0.007108362,64.32516121
+MO,Missouri,Decentralized,https://health.mo.gov/living/lpha/,0.008436911,49.65091453
+MS,Mississippi,Centralized,"https://msdh.ms.gov/msdhsite/_static/19,0,166.html",0.013838906,107.006897
+MT,Montana,Decentralized,https://dphhs.mt.gov/publichealth/FCSS/countytribalhealthdepts,0.013581714,102.4603483
+NC,North Carolina,Decentralized,https://www.ncdhhs.gov/divisions/public-health/county-health-departments,0.015045689,90.19741795
+ND,North Dakota,Decentralized,https://www.ndhealth.gov/localhd/,0.007599615,82.68339644
+NE,Nebraska,Decentralized,http://dhhs.ne.gov/Pages/Local-Health-Departments.aspx,0.01043758,62.13783613
+NH,New Hampshire,Largely centralized,https://nhphn.org/,0.010248588,70.26523002
+NJ,New Jersey,Decentralized,https://www.state.nj.us/health/lh/community/index.shtml#1,0.01065804,98.50068933
+NM,New Mexico,Centralized,https://www.nmhealth.org/location/public/,0.003391674,35.92272732
+NV,Nevada,Largely decentralized,http://dhhs.nv.gov/AboutUs/,0.0063115,36.05764482
+NY,New York,Decentralized,https://www.health.ny.gov/contact/contact_information/,0.009343397,102.2975655
+OH,Ohio,Decentralized,https://odh.ohio.gov/wps/portal/gov/odh/find-local-health-districts,0.005409354,42.85162193
+OK,Oklahoma,Mixed,https://www.ok.gov/health/Community_Health/Community_Health_Services/index.html,0.015781036,106.2408905
+OR,Oregon,Decentralized,https://www.oregon.gov/oha/PH/PROVIDERPARTNERRESOURCES/LOCALHEALTHDEPARTMENTRESOURCES/Pages/lhd.aspx,0.013796097,131.8297948
+PA,Pennsylvania,Mixed,https://www.health.pa.gov/About/Pages/County-Municipal%20Health%20Depts.aspx,0.004656179,38.87050874
+RI,Rhode Island,Centralized,https://health.ri.gov/,0.018780046,171.96507
+SC,South Carolina,Centralized,https://www.scdhec.gov/health/health-public-health-clinics,0.01320147,92.39696321
+SD,South Dakota,Largely centralized,https://doh.sd.gov/local-offices/,0.005304572,33.1265217
+TN,Tennessee,Mixed,https://www.tn.gov/health/health-program-areas/localdepartments.html,0.007106827,36.66413963
+TX,Texas,Largely decentralized,https://www.dshs.texas.gov/rls/localservices/default.shtm,0.012597599,69.43377976
+UT,Utah,Decentralized,https://ibis.health.utah.gov/ibisph-view/about/LocalHealth.html,0.011232996,79.1998411
+VA,Virginia,Largely centralized,https://www.vdh.virginia.gov/local-health-districts/,0.012176463,82.13692099
+VT,Vermont,Centralized,https://www.healthvermont.gov/local,0.019553931,229.2772217
+WA,Washington,Decentralized,https://www.doh.wa.gov/AboutUs/PublicHealthSystem/LocalHealthJurisdictions,0.010877683,85.97605751
+WI,Wisconsin,Decentralized,https://www.dhs.wisconsin.gov/lh-depts/counties.htm,0.011393372,86.57491807
+WV,West Virginia,Decentralized,https://dhhr.wv.gov/localhealth/pages/map.aspx,0.011810908,104.4667082
+WY,Wyoming,Mixed,https://www.naccho.org/membership/lhd-directory?searchType=standard&lhd-state=WY,0.015653033,178.0946374
