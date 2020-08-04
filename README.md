@@ -153,4 +153,4 @@ Please open a Github issue if you spot issues in your local data that are not du
 
 ## How to Contribute
 
-We requested LHD data from many but not all states. If you have LHD-level total expenditures and/or FTE staffing data that is not included here, please reach out via Github issue.
+We requested LHD data from many but not all states. If you have LHD-level total expenditures and/or FTE staffing data that is not included here, please reach out via Github issue or email khn-data-journalism@kff.org.
