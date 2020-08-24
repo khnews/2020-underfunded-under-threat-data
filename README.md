@@ -4,6 +4,10 @@ This repository contains data used in [Underfunded and Under Threat](https://khn
 
 [Read the main story](https://khn.org/news/us-public-health-system-underfunded-under-threat-faces-more-cuts-amid-covid-pandemic/) and the [continuing series](https://khn.org/news/tag/underfunded-and-under-threat/).
 
+## Updates
+#### 2020-08-24
+KHN and AP have found there was an error in the 04-local-health-departments-total-by-state.csv and 05-local-health-departments-detail.csv data provided by Florida, in that the state’s files on staffing and spending figures were all one year off. The error was due to the state incorrectly labeling its data. For instance, what the state listed as 2019-20 figures were actually 2018-19. KHN, which detected the error, has corrected those files in the distribution.
+
 ## Overview
 
 On every level, governments have been starving public health for decades. Now, a wave of layoffs and furloughs in some regions further undercutting what remains of limited staffs, complicating efforts to stop the spread of COVID-19.
